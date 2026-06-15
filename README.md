@@ -53,12 +53,18 @@ This project was created to learn:
 - n8n Development
 - Docker Deployment
 
-## Author
+About the Developer
 
 Dede Pertiwi
 
+Self-taught Python Developer focused on:
+• AI Automation
+• API Integration
+• Telegram Bot Development
+• Workflow Automation with n8n
+
 LinkedIn:
-https://linkedin.com
+https://linkedin.com/in/...
 
 GitHub:
 https://github.com/dedetiwi-dp
