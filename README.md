@@ -2,6 +2,10 @@
 
 AI-powered Telegram Assistant built using n8n, Google Gemini, and Telegram Bot API.
 
+## Workflow Screenshot
+
+![Workflow](workflow.png)
+
 ## Project Overview
 
 This project allows users to chat with an AI assistant directly through Telegram.
